@@ -1,0 +1,26 @@
+h1{
+    background-color: blue;
+}
+body{
+    background-color:rgb(32, 7, 56);
+    font:algerian;
+    margin: 1em 10%;
+}
+small{
+    color: blue}
+h3 {
+    background-color:rgb(223, 179, 58);
+    font-family: algerian;
+}
+button{
+    font-weight: 800;
+    font-kerning: auto;
+    color: rgb(128, 0, 6);
+    paint-order: markers;
+    border: 100px;}
+
+Male
+{
+color:blueviolet;
+font-size: larger;
+}
